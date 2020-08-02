@@ -3,303 +3,303 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://markjuno.com/es/projects/photography/</loc>
+    <loc>https://markjuno.com/es/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/projects/photography/"
+                href="https://markjuno.com/de/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/projects/photography/"
+                href="https://markjuno.com/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/projects/photography/"
+                href="https://markjuno.com/es/projects/photography/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/projects/design/</loc>
+    <loc>https://markjuno.com/es/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/projects/design/"
+                href="https://markjuno.com/de/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/projects/design/"
+                href="https://markjuno.com/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/projects/design/"
+                href="https://markjuno.com/es/projects/design/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/projects/writing/</loc>
+    <loc>https://markjuno.com/es/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/projects/writing/"
+                href="https://markjuno.com/de/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/projects/writing/"
+                href="https://markjuno.com/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/projects/writing/"
+                href="https://markjuno.com/es/projects/writing/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/projects/</loc>
+    <loc>https://markjuno.com/es/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/projects/"
+                href="https://markjuno.com/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/projects/"
+                href="https://markjuno.com/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/projects/"
+                href="https://markjuno.com/es/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/blog/</loc>
+    <loc>https://markjuno.com/es/blog/</loc>
     <lastmod>2020-08-02T20:50:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/blog/"
+                href="https://markjuno.com/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/blog/"
+                href="https://markjuno.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/blog/"
+                href="https://markjuno.com/es/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/</loc>
+    <loc>https://markjuno.com/es/blog/i-moved-to-hugo-from-wp/</loc>
     <lastmod>2020-08-02T20:50:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/blog/i-moved-to-hugo-from-wp/"
+                href="https://markjuno.com/de/blog/i-moved-to-hugo-from-wp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/blog/i-moved-to-hugo-from-wp/"
+                href="https://markjuno.com/blog/i-moved-to-hugo-from-wp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/"
+                href="https://markjuno.com/es/blog/i-moved-to-hugo-from-wp/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/</loc>
+    <loc>https://markjuno.com/es/</loc>
     <lastmod>2020-08-02T20:50:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/"
+                href="https://markjuno.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/"
+                href="https://markjuno.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/"
+                href="https://markjuno.com/es/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/blog/hipser-ipsum/</loc>
+    <loc>https://markjuno.com/es/blog/hipser-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://markjuno.com/de/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://markjuno.com/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://markjuno.com/es/tags/ipsum/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://markjuno.com/es/tags/</loc>
+    <loc>https://markjuno.com/es/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/tags/"
+                href="https://markjuno.com/de/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/tags/"
+                href="https://markjuno.com/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/tags/"
+                href="https://markjuno.com/es/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/tags/words/</loc>
+    <loc>https://markjuno.com/es/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/tags/words/"
+                href="https://markjuno.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/tags/words/"
+                href="https://markjuno.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/tags/words/"
+                href="https://markjuno.com/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/tags/code/</loc>
+    <loc>https://markjuno.com/es/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://markjuno.com/de/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://markjuno.com/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://markjuno.com/es/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://markjuno.com/es/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/tags/code/"
+                href="https://markjuno.com/de/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/tags/code/"
+                href="https://markjuno.com/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/tags/code/"
+                href="https://markjuno.com/es/tags/code/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/blog/startup-ipsum/</loc>
+    <loc>https://markjuno.com/es/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/blog/startup-ipsum/"
+                href="https://markjuno.com/de/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/blog/startup-ipsum/"
+                href="https://markjuno.com/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/blog/startup-ipsum/"
+                href="https://markjuno.com/es/blog/startup-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/tags/coffee/</loc>
+    <loc>https://markjuno.com/es/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/tags/coffee/"
+                href="https://markjuno.com/de/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/tags/coffee/"
+                href="https://markjuno.com/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/tags/coffee/"
+                href="https://markjuno.com/es/tags/coffee/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/blog/coffee-ipsum/</loc>
+    <loc>https://markjuno.com/es/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/blog/coffee-ipsum/"
+                href="https://markjuno.com/de/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/blog/coffee-ipsum/"
+                href="https://markjuno.com/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/blog/coffee-ipsum/"
+                href="https://markjuno.com/es/blog/coffee-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/tags/images/</loc>
+    <loc>https://markjuno.com/es/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://markjuno.com/de/tags/images/"
+                href="https://markjuno.com/de/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://markjuno.com/tags/images/"
+                href="https://markjuno.com/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://markjuno.com/es/tags/images/"
+                href="https://markjuno.com/es/tags/images/"
                 />
   </url>
   
