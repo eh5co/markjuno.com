@@ -80,7 +80,7 @@
   
   <url>
     <loc>http://markjuno.com/es/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2020-08-02T20:50:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -99,13 +99,28 @@
   </url>
   
   <url>
-    <loc>http://markjuno.com/es/blog/hipser-ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/</loc>
+    <lastmod>2020-08-02T20:50:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://markjuno.com/de/blog/i-moved-to-hugo-from-wp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://markjuno.com/blog/i-moved-to-hugo-from-wp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/"
+                />
   </url>
   
   <url>
     <loc>http://markjuno.com/es/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2020-08-02T20:50:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -121,6 +136,11 @@
                 hreflang="es"
                 href="http://markjuno.com/es/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://markjuno.com/es/blog/hipser-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>

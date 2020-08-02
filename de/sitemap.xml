@@ -80,7 +80,7 @@
   
   <url>
     <loc>http://markjuno.com/de/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2020-08-02T20:50:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -95,6 +95,46 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://markjuno.com/de/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://markjuno.com/de/blog/i-moved-to-hugo-from-wp/</loc>
+    <lastmod>2020-08-02T20:50:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://markjuno.com/blog/i-moved-to-hugo-from-wp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://markjuno.com/de/blog/i-moved-to-hugo-from-wp/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://markjuno.com/de/</loc>
+    <lastmod>2020-08-02T20:50:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://markjuno.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://markjuno.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://markjuno.com/de/"
                 />
   </url>
   
@@ -150,26 +190,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://markjuno.com/de/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://markjuno.com/de/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://markjuno.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://markjuno.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://markjuno.com/de/"
                 />
   </url>
   

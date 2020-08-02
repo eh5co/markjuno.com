@@ -6,10 +6,20 @@
     <description>Recent content in Blog on Introducción</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 20:50:22 +0800</lastBuildDate>
     
 	<atom:link href="http://markjuno.com/es/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I Moved to Hugo From Wp</title>
+      <link>http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/</link>
+      <pubDate>Sun, 02 Aug 2020 20:50:22 +0800</pubDate>
+      
+      <guid>http://markjuno.com/es/blog/i-moved-to-hugo-from-wp/</guid>
+      <description>Yes, it is true, i moved from Wordpress to Hugo published FREE on GitHub pages and WOW. fast, no Database, more secure and my development is hidden in my private repo. this is awesome!
+This is an image of Karen</description>
+    </item>
     
     <item>
       <title>Hipster Ipsum - Español</title>
