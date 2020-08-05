@@ -6,8 +6,30 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
+		<lastBuildDate>Wed, 05 Aug 2020 21:17:11 +0800</lastBuildDate>
 		<atom:link href="https://markjuno.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Lovin Hugo Bye Wordpress</title>
+			<link>https://markjuno.com/posts/lovin-hugo-bye-wordpress/</link>
+			<pubDate>Wed, 05 Aug 2020 21:17:11 +0800</pubDate>
+			
+			<guid>https://markjuno.com/posts/lovin-hugo-bye-wordpress/</guid>
+			<description>How awesome is hugo and the amazing peple who amke this project fun and easier for non-dev people :) copied from other post:
+Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+			<content type="html"><![CDATA[<h1 id="how-awesome-is-hugo-and-the-amazing-peple-who-amke-this-project-fun-and-easier-for-non-dev-people-">How awesome is hugo and the amazing peple who amke this project fun and easier for non-dev people :)</h1>
+<p>copied from other post:</p>
+<p>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.</p>
+<p>For example:</p>
+<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml">---<span class="w">
+</span><span class="w"></span><span class="k">images</span><span class="p">:</span><span class="w">
+</span><span class="w">  </span>- https<span class="p">:</span>//picsum.photos/<span class="m">1024</span>/<span class="m">768</span>/<span class="p">?</span>random<span class="w">
+</span><span class="w"></span>---<span class="w">
+</span></code></pre></div><p>This is an array, you can set multiple urls, only the first url will be used. These images is also used in <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html">Twitter Cards</a> and the <a href="http://ogp.me/">Open Graph</a> metadata.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>The &#34;figure&#34; Shortcode</title>

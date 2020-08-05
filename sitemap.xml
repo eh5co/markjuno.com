@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://markjuno.com/posts/lovin-hugo-bye-wordpress/</loc>
+    <lastmod>2020-08-05T21:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markjuno.com/</loc>
+    <lastmod>2020-08-05T21:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markjuno.com/tags/migration/</loc>
+    <lastmod>2020-08-05T21:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markjuno.com/posts/</loc>
+    <lastmod>2020-08-05T21:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markjuno.com/tags/</loc>
+    <lastmod>2020-08-05T21:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markjuno.com/tags/wordpress/</loc>
+    <lastmod>2020-08-05T21:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://markjuno.com/tags/demo/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://markjuno.com/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markjuno.com/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markjuno.com/posts/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markjuno.com/tags/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   

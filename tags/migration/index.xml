@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migration on markjuno.com</title>
+    <link>https://markjuno.com/tags/migration/</link>
+    <description>Recent content in Migration on markjuno.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 05 Aug 2020 21:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://markjuno.com/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lovin Hugo Bye Wordpress</title>
+      <link>https://markjuno.com/posts/lovin-hugo-bye-wordpress/</link>
+      <pubDate>Wed, 05 Aug 2020 21:17:11 +0800</pubDate>
+      
+      <guid>https://markjuno.com/posts/lovin-hugo-bye-wordpress/</guid>
+      <description>How awesome is hugo and the amazing peple who amke this project fun and easier for non-dev people :) copied from other post:
+Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+    </item>
+    
+  </channel>
+</rss>
